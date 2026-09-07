@@ -1,0 +1,21 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+node_modules/
+test-results/
+playwright-report/
+allure-results/
+allure-report/
+.env
+.DS_Store
+*.log
+
+# Test artifacts
+state.json
+cucumber-report.html
+*.png
