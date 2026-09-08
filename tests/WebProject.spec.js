@@ -82,4 +82,4 @@ test("Zaxbys project automation with playwright", async ({ browser }) => {
   await page.getByRole("button", { name: "Pay with Visa Card" }).click();
 });
 
-// Byeeeeeeee......
+// Byeeeeeee
